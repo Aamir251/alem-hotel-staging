@@ -59,6 +59,11 @@ section.facilities {
 }
 
 
+section.packages .carousel-indicators {
+  left: 0;
+}
+
+
 .swiper-button-next {
   right: 1rem;
 }
