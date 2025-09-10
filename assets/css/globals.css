@@ -1,0 +1,32 @@
+section.partner {
+  background-color: white;
+}
+
+section.partner .alem-travel-logo {
+  width: 150px;
+
+}
+section.partner h2 {
+  color: #c19b76;
+  font-size: 3rem;
+}
+
+section.partner .alem-travel-logo-wrap {
+  display: flex;
+  justify-content: center;
+
+}
+
+section.partner .alem-travel-logo:hover {
+  opacity: 0.7;
+
+}
+
+.alem-travel-logo-wrap h4 {
+  transform: translateX(-0.5rem);
+  font-size: 1.3rem;
+}
+
+.alem-travel-logo-wrap h4:hover{
+  color: black;
+}
