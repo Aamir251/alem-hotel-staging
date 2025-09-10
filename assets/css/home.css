@@ -43,7 +43,7 @@ section.facilities {
 }
 
 .swiper.largeSlider {
-  height: 500px;
+  height: 400px;
 
 }
 
@@ -170,7 +170,7 @@ section.packages .carousel-indicators {
 
   .swiper.largeSlider {
     padding: 0 1rem;
-    height: 400px;
+    height: 340px;
 
   }
 }
