@@ -85,7 +85,7 @@ section.facilities {
 
 .swiper.smallSlider .swiper-slide {
   width: 100% !important;
-  height: 500px;
+  height: 300px;
 }
 
 .mt-7 {
@@ -95,7 +95,7 @@ section.facilities {
 
 .facilities-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   width: 100%;
   gap: 30px;
 }
@@ -106,10 +106,7 @@ section.facilities {
   margin-inline: auto;
 }
 
-.pool-slider-wrap .smallSlider .swiper-slide {
-  width: 100% !important;
-  height: 600px;
-}
+
 
 .facility-item {
   width: 100%;
