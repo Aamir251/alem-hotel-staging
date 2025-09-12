@@ -1,3 +1,30 @@
+.rooms-dropdown {
+  position: fixed !important;
+  left: 0 !important;
+  top: 55px !important;
+  width: 100% !important;
+  height: 100% !important;
+  max-height: 500px;
+  background-color: #faf3f8 !important;
+}
+
+.rooms-dropdown div {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.rooms-dropdown img {
+  width: 100%;
+  margin: auto;
+  height: 100%;
+  object-fit: contain;
+  /* height: 400px; */
+}
+
+
 section.partner {
   background-color: white;
 }
